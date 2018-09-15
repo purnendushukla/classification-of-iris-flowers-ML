@@ -12,17 +12,17 @@ Present Results.
 
 
 There are 5 key libraries that you will need to install.
--scipy
--numpy
--matplotlib
--pandas
--sklearn
+- scipy
+- numpy
+- matplotlib
+- pandas
+- sklearn
 
 The dataset contains 150 observations of iris flowers. There are four columns of measurements of the flowers in centimeters. The fifth column is the species of the flower observed. All observed flowers belong to one of three species.
 
 Data Visualization
-1 - Univariate plots to better understand each attribute.(box and whisker plots, histogram etc)
-2 - Multivariate plots to better understand the relationships between attributes.(scatter plots etc)
+- Univariate plots to better understand each attribute.(box and whisker plots, histogram etc)
+- Multivariate plots to better understand the relationships between attributes.(scatter plots etc)
 
 We will split the loaded dataset into two, 80% of which we will use to train our models and 20% that we will hold back as a validation dataset.
 
