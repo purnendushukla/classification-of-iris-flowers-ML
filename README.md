@@ -36,6 +36,7 @@ Let’s evaluate 6 different algorithms:
 - Classification and Regression Trees (CART).
 - Gaussian Naive Bayes (NB).
 - Support Vector Machines (SVM).
+
 This is a good mixture of simple linear (LR and LDA), nonlinear (KNN, CART, NB and SVM) algorithms. We reset the random number seed before each run to ensure that the evaluation of each algorithm is performed using exactly the same data splits. It ensures the results are directly comparable.
 
 We can see that it looks like KNN has the largest estimated accuracy score.
