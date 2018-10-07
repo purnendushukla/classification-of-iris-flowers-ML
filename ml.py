@@ -90,3 +90,9 @@ predictions = knn.predict(X_validation)
 print(accuracy_score(Y_validation, predictions))
 print(confusion_matrix(Y_validation, predictions))
 print(classification_report(Y_validation, predictions))
+
+#gradient boosted tree for boosting random forest.
+
+#gradient decend mathematical tool system of given equation for optimally solve karte h to give best possible result, local maxima and
+#minima ko use karke jaha bhi yeh points exist karte h yeh aapne aap ko dheere deere usi point par le ata h using learning rate
+#
